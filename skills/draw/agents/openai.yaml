@@ -1,0 +1,6 @@
+interface:
+  display_name: "Draw"
+  short_description: "Create editable draw.io diagrams in a light sketch style"
+  default_prompt: "Use $draw to create an editable light-sketch draw.io architecture diagram and open it in the side browser."
+policy:
+  allow_implicit_invocation: true

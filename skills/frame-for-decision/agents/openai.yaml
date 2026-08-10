@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frame for Decision"
+  short_description: "Turn complex findings into clear user decisions"
+  default_prompt: "Use $frame-for-decision to turn these findings into a clear decision review focused on my goals."

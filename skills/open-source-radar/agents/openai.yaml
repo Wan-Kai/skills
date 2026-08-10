@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源方案雷达"
+  short_description: "按需求发现并评估开源产品、Skill、MCP 与 Agent 工具。"
+  default_prompt: "使用 $open-source-radar 调研适合我的开源方案：说明目标、现用产品和约束即可。"

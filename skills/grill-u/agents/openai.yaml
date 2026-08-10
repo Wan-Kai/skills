@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill U"
+  short_description: "Interrogate programs for deep understanding"
+  default_prompt: "Use $grill-u to deeply interrogate a program and explain what it can do, hidden advanced uses, and future direction."
