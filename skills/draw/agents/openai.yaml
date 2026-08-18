@@ -1,6 +1,4 @@
 interface:
   display_name: "Draw"
-  short_description: "Create editable draw.io diagrams in a light sketch style"
-  default_prompt: "Use $draw to create an editable light-sketch draw.io architecture diagram and open it in the side browser."
-policy:
-  allow_implicit_invocation: true
+  short_description: "Create editable draw.io diagrams with safe routing"
+  default_prompt: "Use $draw to create an editable draw.io domain map with collision-free cross-domain routing."

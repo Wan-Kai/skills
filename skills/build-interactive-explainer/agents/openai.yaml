@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Interactive Explainer"
+  short_description: "Turn papers and concepts into shareable interactive HTML"
+  default_prompt: "Use $build-interactive-explainer to explain this paper or concept as a clear, interactive, self-contained HTML page."
